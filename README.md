@@ -1,4 +1,4 @@
-# ResumeParser
+# Resume Parser
 The principle objective of Natural Language Processing (NLP)- based Resume Parser is 
 to extract the necessary data about applicants without going through every single
 resume physically, which eventually leads to a more time and energy-efficient process.
